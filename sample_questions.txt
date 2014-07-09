@@ -1,0 +1,21 @@
+#1 Which state has the largest percent of hispanic-identified individuals?
+
+#2 Which state has the largest number of hispanic-identified individuals?
+
+#3 Find the population density (#people/land area) of each city
+
+#4 what is the total land area taken up by cities with a population of more than 1million?
+
+#5 Find the region of every city
+
+#6 how many of the top 50 cities are in each region?
+
+#7 which states have more than 2 cities in the top 50?
+
+#8 list all of the states where section 5 applies
+
+#9 find all of the cities where no parts of the VRA apply
+
+#10 what is the average percent of the population of each race in states where each section of the VRA applies (also include the average for states where no section applies)
+#note that in general I think averaging percents is a bad idea, but this is an exercise
+#and percents is what wikipedia provided.
