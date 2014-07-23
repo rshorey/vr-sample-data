@@ -1,3 +1,23 @@
+####updated 7/23/2014 with additional questions at the beginning with letters instead of numbers to preserve question numbering. The lettered questions are easier and should be done first.###
+
+#a) Display everything for all states
+
+#b) Display the section and description for each section of the VRA
+
+#c) Select the name and region of each state with a population of over 1,000,000
+
+#d) What is total population of the US? (hint: add the populations of all the states)
+
+#e) What possible regions can a state be in?
+
+#f) What is the total population of the southern region?
+
+#g) What is the average state population from each region?
+
+#h) How many cities have a population of more than 500,000?
+
+
+
 #1 Which state has the largest percent of hispanic-identified individuals?
 
 #2 Which state has the largest number of hispanic-identified individuals?
