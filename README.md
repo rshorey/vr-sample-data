@@ -10,19 +10,23 @@ Create table statements included for demonstration purposes. Tested in MySQL, bu
 
 data files:
 states (51, incl district of columbia, note that race percents may or may not add to 100):
+
+
 |field                      | description                     |
 |---------------------------|---------------------------------|
 | id                        | pkey                            |
 | name                      | state name                      |
 | population                | state's population              |
-| pct\_non\_hisp\_white     | pct white (non-hispanic)        |
-| pct\_hisp                 | pct hispanic                    |
-| pct\_black                | pct black                       |
-| pct\_na                   | pct native american/alaskan     |
-| pct\_asian                | pct asian                       |
-| pct\_hpi                  | pct hawaiian pacific islander   |
-| pct\_mixed                | pct mixed race                  |
+| pct_non_hisp_white     | pct white (non-hispanic)        |
+| pct_hisp                 | pct hispanic                    |
+| pct_black                | pct black                       |
+| pct_na                   | pct native american/alaskan     |
+| pct_asian                | pct asian                       |
+| pct_hpi                  | pct hawaiian pacific islander   |
+| pct_mixed                | pct mixed race                  |
 | region                    | north, south, midwest, west*    |
+
+
 
 *as defined by wikipedia, IT IS NOT MY FAULT THAT THEY THINK DC IS IN THE SOUTH
 
