@@ -1,25 +1,30 @@
 vr-sample-data
 ==============
 
-sample data about voting rights act states
+Sample data about the Voting Rights Act
+----------------------------------------
 
-created 6/14 by Rachel Shorey for Code for Progress. Note that this data is intended for learning SQL, not for learning about or evaluating the content within. The data was (not very carefully) copied from wikipedia and was not checked.
+originally created 6/14 by Rachel Shorey for Code for Progress. Note that this data is intended for learning SQL, not for learning about or evaluating the content within. The data was (not very carefully) copied from wikipedia and was not checked.
 
 Create table statements included for demonstration purposes. Tested in MySQL, but ymmv elsewhere.
 
 data files:
 states (51, incl district of columbia, note that race percents may or may not add to 100):
-id (pkey)
-name
-population
-pct_non_hisp_white
-pct_hisp
-pct_black
-pct_na (native american/alaskan)
-pct_asian
-pct_hpi (hawaiian pacific islander)
-pct_mixed
-region (as defined by wikipedia, IT IS NOT MY FAULT THAT THEY THINK DC IS IN THE SOUTH)
+|field                      | description                     |
+|---------------------------|---------------------------------|
+| id                        | pkey                            |
+| name                      | state name                      |
+| population                | state's population              |
+| pct\_non\_hisp\_white     | pct white (non-hispanic)        |
+| pct\_hisp                 | pct hispanic                    |
+| pct\_black                | pct black                       |
+| pct\_na                   | pct native american/alaskan     |
+| pct\_asian                | pct asian                       |
+| pct\_hpi                  | pct hawaiian pacific islander   |
+| pct\_mixed                | pct mixed race                  |
+| region                    | north, south, midwest, west*    |
+
+*as defined by wikipedia, IT IS NOT MY FAULT THAT THEY THINK DC IS IN THE SOUTH
 
 cities (largest 50 cities in the US as defined by wikipedia):
 city
