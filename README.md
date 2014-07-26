@@ -8,7 +8,10 @@ originally created 6/14 by Rachel Shorey for Code for Progress. Note that this d
 
 Create table statements included for demonstration purposes. Tested in MySQL, but ymmv elsewhere.
 
+The easiest way to use this dataset is by loading it into sqlfiddle.com. Make sure it's set as MySQL, then copy the contents of sqlfiddle_schema.sql into the build schema text area, and click "build schema". Then use the query window to play!
+
 Sample questions for data exploration included. Answers not included because I have a hard time not looking for them if they're available. Contact Rachel if you want 'em.
+
 
 
 **states**: 51, incl district of columbia, note that race percents may or may not add to 100
