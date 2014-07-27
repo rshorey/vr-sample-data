@@ -6,11 +6,16 @@ Sample data about the Voting Rights Act
 
 originally created 6/14 by Rachel Shorey for Code for Progress. Note that this data is intended for learning SQL, not for learning about or evaluating the content within. The data was (not very carefully) copied from wikipedia and was not checked.
 
-Create table statements included for demonstration purposes. Tested in MySQL, but ymmv elsewhere.
+Getting started (the easiest way): 
 
-The easiest way to use this dataset is by loading it into sqlfiddle.com. Make sure it's set as MySQL, then copy the contents of sqlfiddle_schema.sql into the build schema text area, and click "build schema". Then use the query window to play!
+1) go to sqlfiddle.com
+2) make sure it's set as MySQL
+3) copy the contents of sqlfiddle_schema.sql into the build schema text area
+4) click "build schema"
+5) click the browser button to see what's there and confirm the tables loaded (there should be 4)
+6) use the query window to play!
 
-Sample questions for data exploration included. Answers not included because I have a hard time not looking for them if they're available. Contact Rachel if you want 'em.
+Sample questions for data exploration included. Answers not included because I have a hard time not cheating when answers are available. Contact me if you want them.
 
 
 
