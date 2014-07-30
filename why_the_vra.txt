@@ -1,0 +1,7 @@
+Why the Voting Rights Act?
+
+*Because it's important. The Voting Rights Act of 1965 added teeth to the 14th and 15th amendments, and caused significant increases in ability to vote among racial minorities.
+
+*Because it's endangered. In 2013, the Supreme Court struck down Section 4 of the VRA. Section 4 included the formula for which states were covered by Section 5. Section 5 requires that any voting changes enacted in the specified states be precleared by the Justice Department. The preclearance process has prevented local juristictions from drawing districts in ways that dilute the vote of minorities, has led to a congressional delegation that is a slightly better reflection of the American public, and has prevented many small but significant voting changes such as the moving or closing of polling places. A quote from Justice Ruth Bader Ginsburg's dissent about the Section 4 case is worth repeating: "Throwing out preclearance when it has worked and is continuing to work to stop discriminatory changes is like throwing away your umbrella in a rainstorm because you are not getting wet." Given that Section 4 has been struck down, this dataset is inaccurate in that it still relies on the Section 4 definitions, but it still has value in that it allows us to investigate what kinds of populations were covered.
+
+*Because it's complicated. Different sections apply to different states. So it makes a good dataset with lots of opportunities for joining!

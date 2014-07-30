@@ -9,10 +9,15 @@ originally created 6/14 by Rachel Shorey for Code for Progress. Note that this d
 Getting started (the easiest way): 
 
 1) go to sqlfiddle.com
+
 2) make sure it's set as MySQL
+
 3) copy the contents of sqlfiddle_schema.sql into the build schema text area
+
 4) click "build schema"
+
 5) click the browser button to see what's there and confirm the tables loaded (there should be 4)
+
 6) use the query window to play!
 
 Sample questions for data exploration included. Answers not included because I have a hard time not cheating when answers are available. Contact me if you want them.
