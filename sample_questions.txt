@@ -18,6 +18,8 @@
 
 
 
+#These questions are harder and many will require joining multiple tables
+
 #1 Which state has the largest percent of hispanic-identified individuals?
 
 #2 Which state has the largest number of hispanic-identified individuals?
