@@ -14,7 +14,7 @@ region varchar(1));
 create table sections
 (id int,
 section varchar(5),
-description varchar(140),
+description varchar(135),
 status varchar(140));
 
 create table cities
